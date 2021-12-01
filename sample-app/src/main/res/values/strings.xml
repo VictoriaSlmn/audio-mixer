@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Audio mixer</string>
+    <string name="select_video_button">Select video</string>
+    <string name="select_audio_button">Select audio</string>
+    <string name="video_label">Video: </string>
+    <string name="audio_label">Audio: </string>
+    <string name="mix_button">Mix</string>
+    <string name="repeat_mix_button">Mix again</string>
+    <string name="output_video_label">Video with mixed audio is saved in Gallery: </string>
+    <string name="back_button">Back</string>
+    <string name="open_settings_button">Open settings</string>
+    <string name="no_files_label">No %1$s files in Gallery</string>
+    <string name="permissions_label">You want to read from media gallery, so I\'m going to have to ask for permission.</string>
+</resources>
